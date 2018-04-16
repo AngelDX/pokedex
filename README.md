@@ -3,9 +3,14 @@ pokedex usando jquey, pokeapi.co, html, css
 
 Realizado por:
 ===============
-Angel Rosendo COndori COaquira
+Angel Rosendo Condori COaquira
 Email: angel.condori@gmail.com
 
 Demo:
 ===========
-Link: []()
+Link: [https://minichat-bd3de.firebaseapp.com/](https://minichat-bd3de.firebaseapp.com/)
+
+Intalación
+===================
+- Paso 1
+- paSO 2
